@@ -8,6 +8,17 @@ menu{
     list-style:none; 
     padding:0;
 }
+img{
+    max-width: 100%;
+    display: block;
+}
+/* HERO  */
+.hero-img{
+    width: 300px;
+    aspect-ratio: 1;
+    margin: 0 auto;
+}
+
 /* Debug */
 .debug .container-md {
     padding: 20px;
