@@ -1,0 +1,23 @@
+a{
+    color: currentColor;
+    text-decoration: none;
+}
+ul,
+ol,
+menu{
+    list-style:none; 
+    padding:0;
+}
+/* Debug */
+.debug .container-md {
+    padding: 20px;
+    border: 2px solid salmon;
+}
+.debug .row {
+    padding: 20px;
+    border: 2px solid cornflowerblue;
+}
+.debug .col {
+    padding: 20px;
+    border: 2px solid violet;
+}
