@@ -24,6 +24,10 @@ img{
     padding: 20px;
     border: 2px solid salmon;
 }
+.debug .container {
+    padding: 20px;
+    border: 2px solid orange;
+}
 .debug .row {
     padding: 20px;
     border: 2px solid cornflowerblue;
@@ -31,4 +35,8 @@ img{
 .debug .col {
     padding: 20px;
     border: 2px solid violet;
+}
+.debug .col-12 {
+    padding: 20px;
+    border: 2px solid rebeccapurple;
 }
