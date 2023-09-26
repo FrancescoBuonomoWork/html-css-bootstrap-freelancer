@@ -50,6 +50,12 @@ img{
     width: 140px;
     background-color: currentColor;
 }
+/* button  */
+.button-color{
+    color: white;
+    background-color: var(--green);
+    
+} 
 /* footer  */
 .footer-main{
     background-color: var(--blue);
